@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;pizzeria-console-objet/src/pizzeria.ihm&apos;&#x0D;&#x0A;- Original project: &apos;pizzeria-console-imperative&apos;&#x0D;&#x0A;- Destination element: &apos;pizzeria-console-objet/src/pizzeria.ihm&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     pizzeria.console.Stockage.java&#x0D;&#x0A;     pizzeria.console.StockageTableau.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="=pizzeria-console-objet/src&lt;pizzeria.ihm" element1="/src&lt;pizzeria.console{Stockage.java" element2="/src&lt;pizzeria.console{StockageTableau.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1470382210357" units="2" version="1.0"/>
+</session>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="fr.pizzeria.console.Pizza"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.runtime.reflect.Lister"/>
+<fullyQualifiedTypeName name="pizzeria.ihm.Menu"/>
+<fullyQualifiedTypeName name="pizzeria.ihm.Stockage"/>
+<fullyQualifiedTypeName name="pizzeria.ihm.StockageTableau"/>
+<fullyQualifiedTypeName name="fr.pizzeria.model.Pizza"/>
+<fullyQualifiedTypeName name="pizzeria.ihm.ListerPizzasAction"/>
+<fullyQualifiedTypeName name="com.sun.javafx.collections.MappingChange.Map"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="fr.pizzeria.exception.MonException"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>
